@@ -1,0 +1,62 @@
+.vedio-title
+    {
+        font-family:Arial;
+        font-style: italic;
+        font-weight:bold;
+        font-size:18px;
+        width: 350px;
+        line-height:25px;
+        margin-bottom:10;
+    }
+    .vedio-stats
+    {
+        font-family:Arial;
+        font-style: italic;
+        font-weight: light;
+        font-size: 14px;
+        color:rgb(96, 96, 96);
+        margin-top:0;
+    }
+    .vedio-author
+    {
+        font-family:Arial;
+        font-style:italic;
+        font-weight:light;
+        font-size:14px;
+        color:rgb(96, 96, 96);
+        margin-top:0;
+
+    }
+    .vedio-body
+    {
+        font-family:Arial;
+        font-style:italic;
+        font-weight:light;
+        font-size:14px;
+        color:rgb(96, 96, 96);
+        width:275px;
+        line-height:20px;
+        margin-top:0;
+        margin-bottom:0;
+
+    }
+    .vedio-closure
+    {
+        font-family:Arial;
+        margin-bottom:50px;
+        font-style:italic;
+        text-align: center;
+        background-color:rgb(227, 65, 64);
+        color:white;
+        padding-top: 25px;
+        padding-bottom:25px
+    }
+    .span-example
+    {
+        color:red;
+
+    }
+    .shop-link:hover{
+        text-decoration:underline;
+    cursor: pointer;
+    }
